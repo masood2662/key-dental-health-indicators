@@ -1,0 +1,6 @@
+comparison_id,title,finding,derived_from
+D01,"Ratio: untreated decay, children 5-11 vs children 6-11 untreated cavities","20% vs 16.7% — the broader 5-11 band shows a higher untreated share than the 6-11 subset, consistent with younger children receiving less routine care.",Derived from C02 and C03 (CDC figures as compiled).
+D02,Childhood caries experience by age 8,52% of children 6-8 have already had a cavity in baby teeth (C01) — caries experience is majority-prevalent before age 9.,Derived from C01.
+D03,Preventable share framing,Two independent prevention measures each show large effect sizes: sealants ~80% fewer back-teeth cavities (C05) and fluoridated water ~25% fewer cavities overall (C06).,Derived from C05 and C06.
+D04,Adult burden pairing,Lifetime caries experience ~90% (A02) alongside current untreated disease: 25% untreated cavities (A01) and 47.2% gum disease at 30+ (A03).,Derived from A01-A03.
+D05,Economic scale pairing,34 million school hours (C04) and ~$46B productivity (E01) lost annually in the US alone.,Derived from C04 and E01.
